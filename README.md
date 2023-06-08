@@ -13,7 +13,7 @@ Error 404: Bugs not found!
 
  	```bash
          mkdir p-404 && cd p-404
-         repo init -u https://github.com/P-404/android_manifest -b tokui
+         repo init -u https://github.com/notfoundOS/manifest.git -b tokui
          repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
  	```
 
