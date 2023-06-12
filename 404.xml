@@ -62,10 +62,6 @@
   <remove-project name="platform/hardware/libhardware" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="404" caf="platform/hardware/libhardware" />
 
-  <!-- System -->
-  <remove-project name="platform/system/core" />
-  <project path="system/core" name="android_system_core" remote="404" caf="platform/system/core" />
-
   <!-- Vendor -->
   <project path="vendor/404" name="android_vendor_404" remote="404" />
   <project path="vendor/qcom/common" name="proprietary_vendor_qcom_common" remote="404" />
